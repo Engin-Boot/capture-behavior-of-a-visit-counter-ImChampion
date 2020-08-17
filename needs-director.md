@@ -3,7 +3,7 @@
 Scenario: Show patient visits during working days and holidays.
 
 Given I have a database of all the patient visiting.
-Patients entry noted in database.
+When a patients enters hospital,entry will be noted in database.
 According to the number of patients on specific days,
 We will choose the number of staff member required.
 Then the patients would be happy with hospital service.
