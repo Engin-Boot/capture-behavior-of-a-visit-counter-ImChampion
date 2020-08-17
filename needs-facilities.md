@@ -13,4 +13,4 @@ Scenario: Alert when seating capacity is full.
 Given I have the count of visitors visiting hospital on each day of week.
 When the days on which visitor count is more,
 hospital should arrangement for more sitting arrangement.
-Then Then the visitors would have good experience with hospital.
+Then the visitors would have good experience with hospital.
