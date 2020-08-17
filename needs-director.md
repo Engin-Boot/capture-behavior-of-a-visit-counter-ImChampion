@@ -14,5 +14,5 @@ Given I have database of number of parking slots
 and the number of visiting specialists on working days and holidays.
 When a visiting specialist visits a hospital.
 On computing how many specialist visits hospital on specific days,
-We will be able to compute how many slots to reserve for specialists.
+We will be able to compute the number of slots to reserve for specialists.
 Then the visiting specialist would not have any problem related to parking.
